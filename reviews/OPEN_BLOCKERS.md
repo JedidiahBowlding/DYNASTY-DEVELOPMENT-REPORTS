@@ -2,7 +2,7 @@
 
 | Severity | Problem | Impact | Planned Correction |
 |---|---|---|---|
-| Release blocker | Character likeness and acting lack human approval | Candidate performers cannot be approved | Review controlled portrait, walk, sit and dialogue renders |
-| Release blocker | Gait, background drift and facial anatomy artifacts | Visible quality defects | Compare matched shots and independently check speech timing |
-| Release blocker | Windows installation, audio, asset persistence and queue recovery lack release-level evidence | Operational reliability unverified | Run a clean-install end-to-end exercise with interruption and restart |
-| Release blocker | Commercial clearance and publishing checks remain open | Release cannot be approved | Audit release inputs and validate an approved master in a dry run |
+| Release blocker | No disposable clean Windows installation | Installer validation unavailable | Test installer and first render on a clean Windows target |
+| Release blocker | Packaged application crash recovery and asset import recovery incomplete | Recovery behavior uncertified | Run independent crash and restart scenarios |
+| Release blocker | Eye, shading and acting defects | Human approval pending | Review matched shots with independent speech labels |
+| Release blocker | Commercial clearance and publishing dry run pending | Release held | Confirm rights and rehearse publishing with a cleared master |

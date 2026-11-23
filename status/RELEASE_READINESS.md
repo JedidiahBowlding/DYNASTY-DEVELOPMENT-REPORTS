@@ -1,13 +1,15 @@
 # Release readiness
 
-**NO-GO** pending the following gates.
+**NO-GO.** Phase 16 supports supervised local validation.
 
-1. **Clean Windows installation** — Open. Exercise install and startup on a clean Windows setup.
-2. **Real GPU rendering** — Historical pass for a Blender benchmark. Repeat for the release candidate.
-3. **Complete scene generation** — Open. Verify generation, assembly and playback on representative footage.
-4. **Timeline dialogue and audio** — Automated coverage exists. Review a real dialogue export for sync and duplication.
-5. **Render queue recovery** — Open. Interrupt active rendering and verify retry or resume.
-6. **Asset Library persistence** — Open. Verify persistence and reference-safe deletion across restart.
-7. **Human visual approval** — Open. Explicit approval is required for likeness, movement and speech.
-8. **Commercial licensing** — Open. Validate exact assets, models and distribution rights for the release.
-9. **Publishing validation** — Open. Validate an approved master and publishing metadata in a dry run.
+| Gate | Result | Evidence or blocker |
+|---|---|---|
+| Clean Windows installation | BLOCKED | Disposable clean Windows unavailable |
+| Real GPU rendering | PASS | Local Blender office render and independent Wan smoke completed |
+| Complete scene generation | PASS | Four moving validation shots from the office template |
+| Timeline dialogue and audio | PASS | Controlled export timing, one audio stream and complete playback decode |
+| Render queue recovery | BLOCKED | Explicit renderer retry and cancellation tested. Packaged application crash and restart remain unverified |
+| Asset Library persistence | BLOCKED | Real asset reopening and reference protection tested. Full recovery matrix open |
+| Human visual approval | FAIL | Eye and shading defects observed, with character approval pending |
+| Commercial licensing | BLOCKED | Exact release inputs still require clearance |
+| Publishing validation | BLOCKED | Release-eligible master and controlled dry run pending |

@@ -16,3 +16,12 @@ Windows integration is the last code milestone verified by the recorded automate
 | Asset Library | Import, update and deletion covered by integration changes | Clean-machine persistence unverified | Verify import, restart, version retention and safe deletion | Open |
 | ChatDev | Sandbox only | Three roles and local Ollama ran; identical videos and incorrect reviewer assessment | Blind evaluations show a reproducible quality benefit | Hold |
 | Publishing | Release flow remains gated | No release-grade publish verified for this snapshot | Validate approved master, metadata and destination in a controlled dry run | Open |
+
+## Phase 16 update
+
+- Scene Generation and Blender Integration: completed a four-shot Windows validation scene. Gate the next milestone on packaged workflow validation and approved performance.
+- Wan Video Engine: real local smoke passed after Windows workflow compatibility correction. Broader motion quality remains open.
+- Timeline: controlled dialogue placement verified. Continue with multiple edited speech tracks in the desktop workflow.
+- Render Queue and Asset Library: targeted recovery and reference protection verified. Run packaged crash and restart with persisted test assets.
+- Windows Installer: blocked on a clean target. Publishing remains blocked on a cleared release master and rehearsal.
+- Character Factory and Digital Humans: reusable preview identities exercised. Character quality failed review in sampled frames. Audio2Face and ChatDev remain sandbox only.

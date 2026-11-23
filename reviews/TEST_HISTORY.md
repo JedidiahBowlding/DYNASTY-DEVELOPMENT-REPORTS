@@ -11,3 +11,14 @@ The integration results were verified against local execution logs for b5555c44d
 | Local Blender render | Historical 15-second Eevee office render completed | Pre-release scene benchmark |
 | Release end-to-end workflow | No run for this snapshot | Open |
 | Human visual acceptance | Pending; previous candidates failed review | Open |
+
+## Phase 16 execution
+
+| Check | Result |
+|---|---|
+| Fresh baseline | 135 backend and 24 frontend tests passed; frontend production build passed |
+| Final revision | 143 backend and 24 frontend tests passed; frontend production build passed |
+| Local hardware | Blender office and separate Wan smoke completed |
+| Recovery | Targeted cancellation, explicit retry and fault injection executed |
+| Controlled export | 360 continuous frames and one audio stream; full decode passed |
+| Human acceptance and clean installation | Open |

@@ -1,21 +1,7 @@
 # Current status
 
-Source branch: integration/windows-development
+Phase 16 advanced supervised Windows validation. The production decision remains **NO-GO**. Source branch validation/phase16, commit bd885fb2febd6d53240d7ff7439999e13a10764c, private draft pull request #2.
 
-Source commit: 05d624ca391be69548054e9ef5f2632b26020a9e
+A 15-second Blender office scene completed, a separate Wan smoke ran locally, and the assembled Timeline export fully decoded. The final revision passed 143 backend tests, 24 frontend tests and the frontend production build. Human character approval and independent speech evaluation remain open.
 
-Integration revision tested: b5555c44d5006c988782dc4318f2eab6af36cde3
-
-Private pull request: #1 into main, open. GitHub reported 5 commits and 61 changed files after adding the reporting instructions. The last commit added reporting instructions only.
-
-Production decision: **NO-GO**. Windows integration has automated evidence. Release-level workflow, commercial clearance and human approval remain open.
-
-| Check | Observed result | Scope |
-|---|---|---|
-| Backend | 135 passed | Integration code revision |
-| Frontend | 24 passed, 0 failed | Integration code revision |
-| Frontend production build | Passed | Integration code revision |
-| Local GPU inference | Historical Audio2Face sandbox ran on an RTX 4070 Ti SUPER | Sandbox, separate from the integration branch |
-| Local Blender render | Historical 15-second Eevee office render completed | Pre-release scene benchmark |
-| Release end-to-end workflow | No run for this snapshot | Open |
-| Human visual acceptance | Pending; previous candidates failed review | Open |
+See the [Phase 16 milestone report](../reports/2026-11-23/PHASE16/MILESTONE_REPORT.md) and [release readiness](RELEASE_READINESS.md).
