@@ -13,3 +13,12 @@
 | Human visual approval | FAIL | Eye and shading defects observed, with character approval pending |
 | Commercial licensing | BLOCKED | Exact release inputs still require clearance |
 | Publishing validation | BLOCKED | Release-eligible master and controlled dry run pending |
+
+## Phase 17 character gates
+
+| Gate | Status | Reason |
+|---|---|---|
+| Portrait | BLOCKED | Likeness and technical anatomy review incomplete |
+| Body | BLOCKED | Neutral rig diagnostics only and contact issues unresolved |
+| Facial dialogue | BLOCKED | Neutral rig diagnostics only and closure incomplete |
+| Human decision | Pending | No owner approvals entered |

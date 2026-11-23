@@ -22,3 +22,7 @@ The integration results were verified against local execution logs for b5555c44d
 | Recovery | Targeted cancellation, explicit retry and fault injection executed |
 | Controlled export | 360 continuous frames and one audio stream; full decode passed |
 | Human acceptance and clean installation | Open |
+
+## Phase 17 execution
+
+151 backend tests passed, including eight gate-specific regressions. 24 frontend tests and the frontend build passed. Actual GPU portrait, movement and facial comparison renders completed, with full video decode checks. The owner has yet to approve any gate.

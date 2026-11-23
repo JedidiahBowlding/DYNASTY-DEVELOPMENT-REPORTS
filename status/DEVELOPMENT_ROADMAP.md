@@ -25,3 +25,9 @@ Windows integration is the last code milestone verified by the recorded automate
 - Render Queue and Asset Library: targeted recovery and reference protection verified. Run packaged crash and restart with persisted test assets.
 - Windows Installer: blocked on a clean target. Publishing remains blocked on a cleared release master and rehearsal.
 - Character Factory and Digital Humans: reusable preview identities exercised. Character quality failed review in sampled frames. Audio2Face and ChatDev remain sandbox only.
+
+## Phase 17 update
+
+- Character Factory and Digital Humans: local portrait, body and dialogue quality benches are working. Likeness and geometry checks remain incomplete. Body and dialogue were tested on a neutral rig. Validate target-rig contact and anatomy before owner review.
+- Audio2Face: retained comparison only. Sandbox status remains unchanged.
+- Production integration is pending. Prior scene, installer, render recovery and publishing release gates remain in effect.
