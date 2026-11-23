@@ -1,0 +1,3 @@
+# Public reporting rules
+
+Keep this checkout documentation-only. Use the milestone template, distinguish verified results from assumptions, and tie aggregate evidence to the tested source revision. Publish only approved summaries. Exclude source and diffs, proprietary details, credentials, private paths, internal infrastructure, customer information, model weights and unreleased assets. Validate the entire outgoing snapshot and show the complete diff. Block any scan failure. Require individual approval unless the owner explicitly adopts another policy. Publish using fast-forward pushes and verify the public URL anonymously.
