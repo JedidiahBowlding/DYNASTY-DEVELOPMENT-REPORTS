@@ -22,7 +22,9 @@ Four captured actions and two transitions were evaluated on the intended actor. 
 
 ### Visual evidence
 
-Matched walk renders were retained privately. Floor clearance improved across the take. The candidate planted displacement estimate regressed. This milestone has no new portrait or facial comparison.
+The matched walk crop shows the raw captured pose and the corrected trial at the same frame. Floor clearance improved across the take. The candidate planted displacement estimate regressed. This milestone has no new portrait or facial comparison.
+
+![Raw captured walk and IK trial, matched foot and floor frame](images/body-comparison.png)
 
 ## Performance
 
@@ -38,7 +40,7 @@ Authorized captured motion was evaluated with offline deterministic Blender tool
 
 ## Security and privacy
 
-SANITIZATION PASS for the reviewed snapshot. Raw motion, editable assets and videos remain private. Public visual previews require separate owner approval.
+SANITIZATION PASS for the reviewed snapshot. Raw motion, editable assets and videos remain private. The embedded low-resolution crop passed the publication checks.
 
 ## Production readiness
 
