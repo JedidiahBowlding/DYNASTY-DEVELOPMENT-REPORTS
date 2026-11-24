@@ -38,3 +38,7 @@ Windows integration is the last code milestone verified by the recorded automate
 - Complete direct body retargeting and chair contact validation. A root-height correction removed sampled penetration and increased the walking sliding proxy.
 - Verify oral anatomy and independent timing on the actual actor. Keep the retained Audio2Face variant sandbox only.
 - Keep the experimental actor outside production until the individual gates pass.
+
+## Phase 19 update
+
+Qualify a professionally authored actor, then validate captured motion contacts and independent facial timing.

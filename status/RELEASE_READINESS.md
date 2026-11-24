@@ -26,3 +26,7 @@
 ## Phase 18 actor retest
 
 The portrait, body and facial gates remain blocked. Direct actor tests exist. Required anatomy, motion contact and facial timing checks remain incomplete. Owner visual approval is pending. Production remains NO-GO.
+
+## Phase 19 update
+
+Captured-motion sandbox footage exists. All three actor gates remain blocked.

@@ -14,3 +14,7 @@ Approve the intended likeness and verify eye and wardrobe geometry. Exercise mea
 ## Phase 18 actor blockers
 
 Residual likeness and groom issues, walking slide and seat overlap, and unverified oral deformation and speech timing prevent acceptance. Complete the technical evidence and obtain separate owner decisions for all three gates.
+
+## Phase 19 update
+
+Professional likeness, full stance coverage, chair contact and independent timing remain unverified.
