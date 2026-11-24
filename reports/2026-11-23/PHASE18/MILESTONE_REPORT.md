@@ -29,6 +29,22 @@ The intended digital actor now has an editable experimental revision with separa
 
 156 backend tests, 24 frontend tests and the frontend production build passed. Real local Blender portrait, body and facial results were produced. The editable actor reopened with both animation actions and encoded videos decoded. Human visual approval and complete contact and facial anatomy validation were not obtained.
 
+### Visual evidence
+
+Each pair uses the same camera, lighting and render settings. Body and dialogue pairs show the same source frame in both panels.
+
+![Portrait before and after, wide-eyed appearance and lid shape](images/portrait-comparison.png)
+
+The relaxed-lid trial reduced the wide-eyed look. Eyelid and lash fit, groom and overall likeness remain below acceptance.
+
+![Body before and after, shoe and floor position at a matched walking frame](images/body-comparison.png)
+
+Sole-height correction removed sampled floor penetration. The walking shoe-slide proxy worsened and the sitting overlap flag remains. This still cannot demonstrate natural gait.
+
+![Facial dialogue before and after, resting lip gap before speech](images/facial-comparison.png)
+
+The corrected procedural candidate reduced the resting lip gap. This frame was captured before speech and cannot establish lip synchronization. Oral collision and phoneme-level timing remain unverified. Synchronized comparison videos are retained privately for human review.
+
 ## Performance
 
 On an RTX 4070 Ti SUPER, 900 × 900 portrait batches took about 6 to 9 seconds. The corrected 640 × 360 body batch took 61.99 seconds. The 512 × 512 dialogue renders ran at 24 fps. Peak whole-device sampling across the experiments reached 2,305 MiB. These are workstation measurements and exclude packaged installation testing.

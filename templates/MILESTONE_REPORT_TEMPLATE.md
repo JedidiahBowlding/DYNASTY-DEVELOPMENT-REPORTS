@@ -36,6 +36,12 @@ Explain what changed, why, what works, remaining work and any change in producti
 
 Record backend and frontend counts, production build, actual GPU inference, Blender rendering, end-to-end results, human visual acceptance and tests not run. Tie results to execution evidence.
 
+### Visual evidence for character-quality milestones
+
+Prepare matched before-and-after portrait, body performance and facial dialogue panels. Label the candidate versions, defect and frame or time when applicable. Explain what changed, what improved or regressed, and what remains defective. Record preview availability and owner visual decision separately. Explain any missing evidence.
+
+After explicit approval of the exact previews for publication, embed eligible low-resolution PNG panels from the milestone's images directory. Keep original references, full-resolution renders, editable assets and synchronized movement and dialogue videos private. A preview publication approval does not pass a visual quality gate.
+
 ## Performance
 
 Record measured GPU model and peak VRAM, inference and rendering duration, resolution, frame rate, clip duration, failures and recovery, and prior comparisons. Separate estimates from measurements.
