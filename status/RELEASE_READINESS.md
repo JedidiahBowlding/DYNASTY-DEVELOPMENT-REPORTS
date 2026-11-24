@@ -22,3 +22,7 @@
 | Body | BLOCKED | Neutral rig diagnostics only and contact issues unresolved |
 | Facial dialogue | BLOCKED | Neutral rig diagnostics only and closure incomplete |
 | Human decision | Pending | No owner approvals entered |
+
+## Phase 18 actor retest
+
+The portrait, body and facial gates remain blocked. Direct actor tests exist. Required anatomy, motion contact and facial timing checks remain incomplete. Owner visual approval is pending. Production remains NO-GO.

@@ -10,3 +10,7 @@
 ## Phase 17 additions
 
 Approve the intended likeness and verify eye and wardrobe geometry. Exercise measured contact on the target rig and resolve facial closure and anatomy before submitting formal owner reviews.
+
+## Phase 18 actor blockers
+
+Residual likeness and groom issues, walking slide and seat overlap, and unverified oral deformation and speech timing prevent acceptance. Complete the technical evidence and obtain separate owner decisions for all three gates.

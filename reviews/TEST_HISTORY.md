@@ -26,3 +26,7 @@ The integration results were verified against local execution logs for b5555c44d
 ## Phase 17 execution
 
 151 backend tests passed, including eight gate-specific regressions. 24 frontend tests and the frontend build passed. Actual GPU portrait, movement and facial comparison renders completed, with full video decode checks. The owner has yet to approve any gate.
+
+## Phase 18 execution
+
+156 backend tests and 24 frontend tests passed, and the frontend production build passed. Real Blender portrait, body and dialogue comparisons rendered. The editable actor reopened with both actions, and encoded video passed complete decoding. Human approval is pending.

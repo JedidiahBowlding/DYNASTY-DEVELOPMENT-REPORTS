@@ -31,3 +31,10 @@ Windows integration is the last code milestone verified by the recorded automate
 - Character Factory and Digital Humans: local portrait, body and dialogue quality benches are working. Likeness and geometry checks remain incomplete. Body and dialogue were tested on a neutral rig. Validate target-rig contact and anatomy before owner review.
 - Audio2Face: retained comparison only. Sandbox status remains unchanged.
 - Production integration is pending. Prior scene, installer, render recovery and publishing release gates remain in effect.
+
+## Phase 18 update
+
+- Evaluate targeted portrait and groom improvements with the owner-approved likeness reference.
+- Complete direct body retargeting and chair contact validation. A root-height correction removed sampled penetration and increased the walking sliding proxy.
+- Verify oral anatomy and independent timing on the actual actor. Keep the retained Audio2Face variant sandbox only.
+- Keep the experimental actor outside production until the individual gates pass.

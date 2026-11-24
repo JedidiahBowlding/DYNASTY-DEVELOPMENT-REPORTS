@@ -1,7 +1,7 @@
 # Current status
 
-Phase 17 introduced separate local portrait, body and facial quality tests. All three gates remain **BLOCKED** for the intended actor and owner review is pending. Overall production status remains **NO-GO**.
+Phase 18 built and reopened an editable experimental digital actor. Matched portrait tests, direct body tests and fixed-audio dialogue comparisons completed. All three actor quality gates remain **BLOCKED**, owner review is pending, and production is **NO-GO**.
 
-151 backend tests, 24 frontend tests and the frontend production build passed. Actual local Blender evidence was produced. The Phase 16 Windows, recovery and publishing blockers remain open.
+156 backend tests, 24 frontend tests and the frontend production build passed. Existing release validation blockers remain open. Source branch validation/phase18 at d7a302801a87ce5d24ebb333154490931b00eb75, private draft PR #4.
 
-Source branch validation/phase17 at 7374d133cef49d88aa9699f1bbfea6eea9aed3ad, private draft PR #3. See the [Phase 17 report](../reports/2026-11-23/PHASE17/MILESTONE_REPORT.md).
+See the [Phase 18 milestone](../reports/2026-11-23/PHASE18/MILESTONE_REPORT.md).
