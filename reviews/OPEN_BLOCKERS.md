@@ -18,3 +18,9 @@ Residual likeness and groom issues, walking slide and seat overlap, and unverifi
 ## Phase 19 update
 
 Professional likeness, full stance coverage, chair contact and independent timing remain unverified.
+
+## Phase 20 motion
+
+- Walk correction regressed inferred stance displacement.
+- Sitting retains measurable chair intersection.
+- Stable contact coverage, turn pivots, transitions and owner approval remain unresolved.

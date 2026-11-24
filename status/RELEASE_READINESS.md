@@ -30,3 +30,7 @@ The portrait, body and facial gates remain blocked. Direct actor tests exist. Re
 ## Phase 19 update
 
 Captured-motion sandbox footage exists. All three actor gates remain blocked.
+
+## Phase 20 body performance
+
+NO-GO. Technical failure for the tested candidate. Walking stance regression and chair intersection remain. Owner review is pending. Prior decisions for the other gates are unchanged.
