@@ -34,3 +34,7 @@ Captured-motion sandbox footage exists. All three actor gates remain blocked.
 ## Phase 20 body performance
 
 NO-GO. Technical failure for the tested candidate. Walking stance regression and chair intersection remain. Owner review is pending. Prior decisions for the other gates are unchanged.
+
+## Phase 21
+
+NO-GO. Walking contact improved on inferred windows. Body acceptance failed due to chair penetration and transition defects. Owner visual review is pending.

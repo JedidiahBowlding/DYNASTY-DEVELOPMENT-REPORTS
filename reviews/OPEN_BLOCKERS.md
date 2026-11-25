@@ -24,3 +24,9 @@ Professional likeness, full stance coverage, chair contact and independent timin
 - Walk correction regressed inferred stance displacement.
 - Sitting retains measurable chair intersection.
 - Stable contact coverage, turn pivots, transitions and owner approval remain unresolved.
+
+## Phase 21
+
+- Verify stable stance and roll on independent evidence.
+- Resolve seated penetration and prevent hovering without losing foot support.
+- Qualify independent transitions and obtain human approval.

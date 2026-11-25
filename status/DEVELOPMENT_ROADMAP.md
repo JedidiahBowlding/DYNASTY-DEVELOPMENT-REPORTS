@@ -46,3 +46,7 @@ Qualify a professionally authored actor, then validate captured motion contacts 
 ## Phase 20
 
 The captured body motion pipeline remains experimental. Qualify a control rig with verified foot pivots, coupled pelvis corrections, chair contact and reversible action transitions. Then obtain owner review. Portrait and facial dialogue were outside this milestone.
+
+## Phase 21
+
+Qualify a control rig and supervised contact reference. Measure toe pivots, chair support and transition continuity together before promotion.
