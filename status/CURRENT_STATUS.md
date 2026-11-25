@@ -1,5 +1,5 @@
 # Current status
 
-Phase 22 tested static seating. Floor and backrest clearance improved, but the body and suit still intersect the seat. No sit-to-rise sequence was baked. Production **NO-GO**.
+Phase 23 cleared sampled body-to-seat penetration. Seat support coverage and suit clearance still failed. Production **NO-GO**.
 
-See the [Phase 22 session report](../reports/2026-11-25/PHASE22/MILESTONE_REPORT.md).
+See the [Phase 23 report](../reports/2026-11-25/PHASE23/MILESTONE_REPORT.md).

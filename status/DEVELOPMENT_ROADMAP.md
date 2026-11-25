@@ -54,3 +54,7 @@ Qualify a control rig and supervised contact reference. Measure toe pivots, chai
 ## Phase 22
 
 Test pelvis orientation and seated thigh and garment deformation before baking motion.
+
+## Phase 23
+
+Test seated garment fit with independent body and seat clearance constraints.
