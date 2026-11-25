@@ -30,3 +30,7 @@ Professional likeness, full stance coverage, chair contact and independent timin
 - Verify stable stance and roll on independent evidence.
 - Resolve seated penetration and prevent hovering without losing foot support.
 - Qualify independent transitions and obtain human approval.
+
+## Phase 22
+
+Establish loaded seat support without body or suit penetration or visible hovering.

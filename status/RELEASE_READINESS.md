@@ -38,3 +38,7 @@ NO-GO. Technical failure for the tested candidate. Walking stance regression and
 ## Phase 21
 
 NO-GO. Walking contact improved on inferred windows. Body acceptance failed due to chair penetration and transition defects. Owner visual review is pending.
+
+## Phase 22
+
+NO-GO. The static seat gate failed and owner review remains pending.

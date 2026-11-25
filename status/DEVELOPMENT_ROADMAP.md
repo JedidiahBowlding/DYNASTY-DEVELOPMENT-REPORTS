@@ -50,3 +50,7 @@ The captured body motion pipeline remains experimental. Qualify a control rig wi
 ## Phase 21
 
 Qualify a control rig and supervised contact reference. Measure toe pivots, chair support and transition continuity together before promotion.
+
+## Phase 22
+
+Test pelvis orientation and seated thigh and garment deformation before baking motion.
