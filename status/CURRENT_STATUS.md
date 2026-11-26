@@ -1,5 +1,5 @@
 # Current status
 
-Phase 23 cleared sampled body-to-seat penetration. Seat support coverage and suit clearance still failed. Production **NO-GO**.
+Phase 24 began seated garment fitting. The first trial reduced chair penetration but failed clearance and strain checks. Production **NO-GO**.
 
-See the [Phase 23 report](../reports/2026-11-25/PHASE23/MILESTONE_REPORT.md).
+See the [Phase 24 session report](../reports/2026-11-26/PHASE24/MILESTONE_REPORT.md).

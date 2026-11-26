@@ -58,3 +58,7 @@ Test pelvis orientation and seated thigh and garment deformation before baking m
 ## Phase 23
 
 Test seated garment fit with independent body and seat clearance constraints.
+
+## Phase 24
+
+Test an alternative seated garment on the same pose.

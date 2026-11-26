@@ -38,3 +38,7 @@ Establish loaded seat support without body or suit penetration or visible hoveri
 ## Phase 23
 
 Preserve body clearance while resolving suit fit and broadening seated support.
+
+## Phase 24
+
+Residual suit collision and local garment stretch block animation.
