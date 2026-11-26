@@ -5,3 +5,7 @@ Phase 24 began seated garment fitting. The first trial reduced chair penetration
 See the [Phase 24 session report](../reports/2026-11-26/PHASE24/MILESTONE_REPORT.md).
 
 Two alternate garments improved chair clearance but increased the estimated garment-to-body overlap. Production **NO-GO**.
+
+## Unreal pilot
+
+The isolated pilot is awaiting verification of the engine installation. A Blender reference was rendered. [Pilot setup report](../reports/2026-11-26/UNREAL_PILOT/MILESTONE_REPORT.md).
