@@ -8,4 +8,4 @@ Two alternate garments improved chair clearance but increased the estimated garm
 
 ## Unreal pilot
 
-The isolated pilot is awaiting verification of the engine installation. A Blender reference was rendered. [Pilot setup report](../reports/2026-11-26/UNREAL_PILOT/MILESTONE_REPORT.md).
+Unreal 5.8.4 launched the isolated pilot. The stock character preview, chair stage and camera sequence are available. Character assembly awaits Epic sign-in. [Pilot setup report](../reports/2026-11-26/UNREAL_PILOT/MILESTONE_REPORT.md).

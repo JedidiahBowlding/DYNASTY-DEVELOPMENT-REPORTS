@@ -2,27 +2,27 @@
 
 ## Report metadata
 
-Unreal graphics pilot setup, 2026-11-26. BLOCKED. Dynasty source baseline 83c16b56d4b1faf951a2d8bd28f96d45065e85cb.
+Unreal graphics pilot setup and stage validation, 2026-11-26. PARTIAL. Dynasty source baseline 83c16b56d4b1faf951a2d8bd28f96d45065e85cb.
 
 ## Executive summary
 
-A separate Unreal test project and matched Blender reference were prepared. Unreal setup reached the installer. A completed engine installation was not verified, so no Unreal render or comparison result exists.
+Unreal Engine 5.8.4 launched the isolated pilot. The stock digital actor opened in the character editor. A chair stage and camera sequence were created. Character assembly is waiting for Epic sign-in.
 
 ## Implemented features
 
-An isolated graphics pilot and a reference chair fixture were prepared for the engine test.
+Saved an editable stock character, imported eight reference meshes, and built a 24 fps chair test sequence and render preset.
 
 ## Testing and verification
 
-A real Blender close-up rendered and the test fixture exported. Unreal rendering, animation and visual review are pending.
+A Blender comparison baseline exists. Unreal verified the imported chair dimensions and displayed the stock character in its editor preview. No matched character render or motion acceptance exists.
 
 ## Performance
 
-No new comparative GPU benchmark was run.
+The empty chair stage rendered one 960 by 540 frame through Movie Render Queue on the RTX 4070 Ti SUPER. Process wall time was 53.10 seconds including startup. Peak sampled GPU-wide memory was 3127 MiB. The frame was overexposed and qualifies only as a render-path check. Character render performance remains unmeasured.
 
 ## Known problems
 
-Engine installation is not yet verified. The prior Dynasty chair-support and garment-fit blockers remain.
+Epic sign-in is pending for stock rigging and textures. The prior Dynasty chair-support and garment-fit blockers remain.
 
 ## Experimental integrations
 
@@ -38,7 +38,7 @@ NO-GO for a pipeline switch. Comparative evidence and owner review are pending.
 
 ## Next priorities
 
-1. Verify the local engine and character content install.
+1. Complete Epic sign-in for the untouched stock preset.
 2. Render a comparable close-up using a stock character.
 3. Check a short seated transition separately for contact and visual quality.
 
