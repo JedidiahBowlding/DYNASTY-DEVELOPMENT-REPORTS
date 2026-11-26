@@ -42,3 +42,5 @@ Preserve body clearance while resolving suit fit and broadening seated support.
 ## Phase 24
 
 Residual suit collision and local garment stretch block animation.
+
+The best alternate reduced chair penetration to 0.21 cm but increased the body-overlap proxy.

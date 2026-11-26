@@ -62,3 +62,5 @@ Test seated garment fit with independent body and seat clearance constraints.
 ## Phase 24
 
 Test an alternative seated garment on the same pose.
+
+Refit the better alternate garment on the same pose.

@@ -2,23 +2,23 @@
 
 ## Report metadata
 
-Phase 24 seated garment fit, 2026-11-26. PARTIAL. Source revision 1a3624d6a38e2261e981c3674beae1e92733daeb.
+Phase 24 seated garment fit, 2026-11-26. PARTIAL. Source revision 83c16b56d4b1faf951a2d8bd28f96d45065e85cb.
 
 ## Executive summary
 
-The first dual-clearance trial reduced seat penetration while detecting no body penetration on the moved patch. Residual chair collision and garment distortion failed static acceptance.
+Two alternate outfits improved chair clearance on the same seated pose. Both increased the estimated garment-to-body overlap. Static acceptance remains failed.
 
 ## Implemented features
 
-A bounded local garment fit checked each proposed displacement against the actor and chair.
+The same rig, chair and pose were used to bind and compare two alternative garments.
 
 ## Testing and verification
 
-Nine focused solver tests passed. Blender rendered and reopened the editable trial. Human approval is pending.
+Nine focused solver tests passed. Blender rendered and reopened both editable alternatives. Human approval is pending.
 
 ### Visual evidence
 
-Matched seat crops show two experimental garment fits. Visual inspection is separate from measured collisions.
+Matched seat crops show the original suit and the alternate with the best chair clearance.
 
 ![Matched seated garment fit comparison](images/body-comparison.png)
 
@@ -28,7 +28,7 @@ Static stills only. No new motion benchmark.
 
 ## Known problems
 
-Maximum sampled suit-to-chair depth fell from 3.47 cm to 2.95 cm. The most stretched measured edge in the adjusted region reached 1.95 times its original length. Seat support remains unqualified.
+Maximum sampled suit-to-chair depth fell from 3.47 cm to 2.95 cm. The most stretched measured edge in the adjusted region reached 1.95 times its original length. Seat support remains unqualified. The alternate outfits reduced chair penetration from 3.47 cm to 0.32 cm and 0.21 cm. The original suit measured 0.96 cm on the separate nearest-surface body proxy. The alternate outfits measured 1.90 cm and 1.45 cm on that proxy. This proxy is approximate on open body surfaces.
 
 ## Experimental integrations
 
@@ -44,7 +44,7 @@ NO-GO. The static garment trial failed. No motion was baked.
 
 ## Next priorities
 
-1. Test a different seated garment on the same pose.
+1. Refit the better alternate using simultaneous body and chair constraints.
 2. Verify seat support before baking motion.
 3. Inspect a matched sit and rise only after static acceptance.
 

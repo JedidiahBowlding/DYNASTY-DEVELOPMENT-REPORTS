@@ -54,3 +54,5 @@ Nine focused solver tests passed. Blender rendered and reopened the editable sta
 ## Phase 24
 
 Nine focused tests passed. Static Blender trial rendered and reopened.
+
+Nine focused tests passed. Both alternate garments rendered and reopened in Blender.
