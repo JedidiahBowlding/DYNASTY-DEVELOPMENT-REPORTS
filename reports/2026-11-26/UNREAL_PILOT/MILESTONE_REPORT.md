@@ -22,7 +22,7 @@ The empty chair stage rendered one 960 by 540 frame through Movie Render Queue o
 
 ## Known problems
 
-The initial character assembly failed during texture baking. A separate editor retry reopened the rigged stock asset with textures, but failed while compiling facial controls. The attempted portrait frames are invalid. The prior Dynasty chair-support and garment-fit blockers remain.
+The initial character assembly failed during texture baking. A separate editor retry reopened the rigged stock asset with textures, but failed while compiling facial controls. The Optimized path reproduced the same facial control errors in a fresh output folder and saved no assembled assets. The preassembled sample requires Fab sign-in. The attempted portrait frames are invalid. The prior Dynasty chair-support and garment-fit blockers remain.
 
 ## Experimental integrations
 

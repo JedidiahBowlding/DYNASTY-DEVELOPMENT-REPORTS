@@ -8,4 +8,4 @@ Two alternate garments improved chair clearance but increased the estimated garm
 
 ## Unreal pilot
 
-Unreal 5.8.4 launched the isolated pilot. The stock character preview, chair stage and camera sequence are available. Epic sign-in and stock rig and texture recovery succeeded. The cinematic assembly failed on facial controls. [Pilot setup report](../reports/2026-11-26/UNREAL_PILOT/MILESTONE_REPORT.md).
+Unreal 5.8.4 launched the isolated pilot. The stock character preview, chair stage and camera sequence are available. Epic sign-in and stock rig and texture recovery succeeded. Cinematic and Optimized assemblies failed on the same facial controls. The preassembled sample awaits Fab sign-in. [Pilot setup report](../reports/2026-11-26/UNREAL_PILOT/MILESTONE_REPORT.md).
