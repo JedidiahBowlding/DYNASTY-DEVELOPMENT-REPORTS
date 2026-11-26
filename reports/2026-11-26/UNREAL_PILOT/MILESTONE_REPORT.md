@@ -6,7 +6,7 @@ Unreal graphics pilot setup and stage validation, 2026-11-26. PARTIAL. Dynasty s
 
 ## Executive summary
 
-Unreal Engine 5.8.4 launched the isolated pilot. The stock digital actor opened in the character editor. A chair stage and camera sequence were created. Character assembly is waiting for Epic sign-in.
+Unreal Engine 5.8.4 launched the isolated pilot. The stock digital actor opened in the character editor. A chair stage and camera sequence were created. Epic sign-in succeeded. The stock rig and textures were recovered in a separate editor copy, but complete character assembly failed.
 
 ## Implemented features
 
@@ -22,7 +22,7 @@ The empty chair stage rendered one 960 by 540 frame through Movie Render Queue o
 
 ## Known problems
 
-Epic sign-in is pending for stock rigging and textures. The prior Dynasty chair-support and garment-fit blockers remain.
+The initial character assembly failed during texture baking. A separate editor retry reopened the rigged stock asset with textures, but failed while compiling facial controls. The attempted portrait frames are invalid. The prior Dynasty chair-support and garment-fit blockers remain.
 
 ## Experimental integrations
 
@@ -38,7 +38,7 @@ NO-GO for a pipeline switch. Comparative evidence and owner review are pending.
 
 ## Next priorities
 
-1. Complete Epic sign-in for the untouched stock preset.
+1. Resolve the stock facial Control Rig assembly failure in isolation.
 2. Render a comparable close-up using a stock character.
 3. Check a short seated transition separately for contact and visual quality.
 
