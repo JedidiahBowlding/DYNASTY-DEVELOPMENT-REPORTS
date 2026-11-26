@@ -14,15 +14,15 @@ Saved an editable stock character, imported eight reference meshes, and built a 
 
 ## Testing and verification
 
-A Blender comparison baseline exists. Unreal verified the imported chair dimensions and displayed the stock character in its editor preview. No matched character render or motion acceptance exists.
+A Blender comparison baseline exists. Unreal verified the imported chair dimensions and displayed the stock character in its editor preview. The preassembled stock MetaHuman rendered in the vendor cinematic. Visual inspection confirmed visible skin, eyes, hair and hands with the sample control graphics. Matched portrait and motion acceptance remain pending.
 
 ## Performance
 
-The empty chair stage rendered one 960 by 540 frame through Movie Render Queue on the RTX 4070 Ti SUPER. Process wall time was 53.10 seconds including startup. Peak sampled GPU-wide memory was 3127 MiB. The frame was overexposed and qualifies only as a render-path check. Character render performance remains unmeasured.
+The empty chair stage rendered one 960 by 540 frame through Movie Render Queue on the RTX 4070 Ti SUPER. Process wall time was 53.10 seconds including startup. Peak sampled GPU-wide memory was 3127 MiB. The frame was overexposed and qualifies only as a render-path check. The preassembled sample rendered one 960 by 540 frame in 66.84 seconds including startup, with 6562 MiB peak sampled GPU-wide memory. This is a single-frame measurement.
 
 ## Known problems
 
-The initial character assembly failed during texture baking. A separate editor retry reopened the rigged stock asset with textures, but failed while compiling facial controls. The Optimized path reproduced the same facial control errors in a fresh output folder and saved no assembled assets. The preassembled sample requires Fab sign-in. The attempted portrait frames are invalid. The prior Dynasty chair-support and garment-fit blockers remain.
+The initial character assembly failed during texture baking. A separate editor retry reopened the rigged stock asset with textures, but failed while compiling facial controls. The Optimized path reproduced the same facial control errors in a fresh output folder and saved no assembled assets. Fab sign-in completed and the preassembled sample downloaded. An isolated copy was inventoried successfully in Unreal 5.8.4, including the authored sequence and Control Rig assets. The original pilot portrait frames are invalid. The sample render establishes a separate working path for an assembled character. The prior Dynasty chair-support and garment-fit blockers remain.
 
 ## Experimental integrations
 
@@ -38,7 +38,7 @@ NO-GO for a pipeline switch. Comparative evidence and owner review are pending.
 
 ## Next priorities
 
-1. Resolve the stock facial Control Rig assembly failure in isolation.
+1. Use an isolated copy of the preassembled character for a clean close-up and chair test.
 2. Render a comparable close-up using a stock character.
 3. Check a short seated transition separately for contact and visual quality.
 
