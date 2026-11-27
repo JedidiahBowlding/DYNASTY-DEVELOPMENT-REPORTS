@@ -32,6 +32,10 @@ Unreal Engine and a reference MetaHuman are under evaluation in an isolated proj
 
 The local Unreal editor rendered three private views of the free blouse paired with sample trousers on the likeness candidate. Visual inspection of the full-length view showed severe body penetration at the thighs and lower legs. The pairing failed neutral fit. Walking, turning and sitting fit remain unverified. A matching full outfit or trousers fitted to the candidate body are the next test. Production adoption remains NO-GO.
 
+**Office wardrobe refit**
+
+A body-specific trouser refit removed the obvious thigh and lower-leg clipping in a matched neutral view. A rest-pose surface estimate found no remaining garment vertices below the sampled body surface, but this does not measure cloth behavior during motion. The waistband still needs refinement, and the preview is barefoot. The skinned garment imported. The chair pose did not change the candidate knee position in the editor preview, so the trial could not establish animated fit. A compatible assembled actor or retargeted pose is required for that test.
+
 ## Security and privacy
 
 SANITIZATION PASS. Private character files and reference images remain private.
