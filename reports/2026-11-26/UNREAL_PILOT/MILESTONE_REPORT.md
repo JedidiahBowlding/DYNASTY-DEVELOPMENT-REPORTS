@@ -44,6 +44,10 @@ Enabling editor animation updates let the existing chair pose evaluate on the li
 
 A second private render tested added upper-thigh ease and direct binding of the blouse to the moving body. Visible thigh clipping decreased but remained near both knees. The blouse still stayed in its standing pose. A separate simulation-enabled attempt failed the body pose verification and produced no comparable render. The outfit remains rejected. Further changes require an animated actor with a verified wardrobe binding and a pose-aware fitting pass.
 
+**Skeletal wardrobe comparison**
+
+A replacement skeletal button-down followed the shoulders and arms. Transferring skin weights from the likeness body to the trousers removed the visible knee and thigh clipping in the inspected front samples. Unreal captured standing, descending, seated and rising poses with the same chair fixture. The final candidate still has a dark collar gap, visible toe clipping, and a waistband that needs refinement. These are sampled poses. Continuous animation, chair contact measurements, and owner approval remain pending.
+
 ## Security and privacy
 
 SANITIZATION PASS. Private character files and reference images remain private.
