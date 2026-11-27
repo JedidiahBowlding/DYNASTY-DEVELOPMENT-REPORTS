@@ -36,6 +36,10 @@ The local Unreal editor rendered three private views of the free blouse paired w
 
 A body-specific trouser refit removed the obvious thigh and lower-leg clipping in a matched neutral view. A rest-pose surface estimate found no remaining garment vertices below the sampled body surface, but this does not measure cloth behavior during motion. The waistband still needs refinement, and the preview is barefoot. The skinned garment imported. The chair pose did not change the candidate knee position in the editor preview, so the trial could not establish animated fit. A compatible assembled actor or retargeted pose is required for that test.
 
+**Seated wardrobe check**
+
+Enabling editor animation updates let the existing chair pose evaluate on the likeness body. The left knee moved about 15.3 cm relative to neutral. In the seated render, the trousers bent with the legs but clipped at the thighs. The blouse remained in its neutral pose as the hands moved. The outfit fails the seated fit check. The next test needs an outfit bound to the animated actor and a check across the entire chair sequence.
+
 ## Security and privacy
 
 SANITIZATION PASS. Private character files and reference images remain private.
