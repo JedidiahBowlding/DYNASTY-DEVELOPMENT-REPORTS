@@ -28,6 +28,10 @@ The initial character assembly failed during texture baking. A separate editor r
 
 Unreal Engine and a reference MetaHuman are under evaluation in an isolated project. Rendering quality and motion contact will be judged separately.
 
+**Office wardrobe fit trial**
+
+The local Unreal editor rendered three private views of the free blouse paired with sample trousers on the likeness candidate. Visual inspection of the full-length view showed severe body penetration at the thighs and lower legs. The pairing failed neutral fit. Walking, turning and sitting fit remain unverified. A matching full outfit or trousers fitted to the candidate body are the next test. Production adoption remains NO-GO.
+
 ## Security and privacy
 
 SANITIZATION PASS. Private character files and reference images remain private.
