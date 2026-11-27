@@ -40,6 +40,10 @@ A body-specific trouser refit removed the obvious thigh and lower-leg clipping i
 
 Enabling editor animation updates let the existing chair pose evaluate on the likeness body. The left knee moved about 15.3 cm relative to neutral. In the seated render, the trousers bent with the legs but clipped at the thighs. The blouse remained in its neutral pose as the hands moved. The outfit fails the seated fit check. The next test needs an outfit bound to the animated actor and a check across the entire chair sequence.
 
+**Seated refit and cloth binding**
+
+A second private render tested added upper-thigh ease and direct binding of the blouse to the moving body. Visible thigh clipping decreased but remained near both knees. The blouse still stayed in its standing pose. A separate simulation-enabled attempt failed the body pose verification and produced no comparable render. The outfit remains rejected. Further changes require an animated actor with a verified wardrobe binding and a pose-aware fitting pass.
+
 ## Security and privacy
 
 SANITIZATION PASS. Private character files and reference images remain private.
