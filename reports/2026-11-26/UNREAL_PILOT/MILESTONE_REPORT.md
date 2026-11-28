@@ -46,7 +46,7 @@ A second private render tested added upper-thigh ease and direct binding of the 
 
 **Skeletal wardrobe comparison**
 
-A replacement skeletal button-down followed the shoulders and arms. Transferring skin weights from the likeness body to the trousers removed the visible knee and thigh clipping in the inspected front samples. Unreal captured standing, descending, seated and rising poses with the same chair fixture. The final candidate still has a dark collar gap, visible toe clipping, and a waistband that needs refinement. These are sampled poses. The owner flagged the revision as a visual regression. The prior face candidate and motion assets are still present and are the working baseline. Continuous animation, chair contact measurements, and visual approval remain pending.
+A replacement skeletal button-down followed the shoulders and arms. Transferring skin weights from the likeness body to the trousers removed the visible knee and thigh clipping in the inspected front samples. Unreal captured standing, descending, seated and rising poses with the same chair fixture. The final candidate still has a dark collar gap, visible toe clipping, and a waistband that needs refinement. These are sampled poses. The owner clarified that the current wardrobe preview looks good. This candidate will be used for the full motion test. The prior face candidate and motion assets remain available. Continuous animation, chair contact measurements, and visual approval remain pending.
 
 ## Security and privacy
 
